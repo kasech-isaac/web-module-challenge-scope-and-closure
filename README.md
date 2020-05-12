@@ -42,6 +42,9 @@ Find the file `index.js` and complete the tasks.
 Edit the `ReadMe` file with your answers.
 
 1. In your own words, define closure (1-2 sentences).
+
+ closure gives us the ability to put function together.
+
 2. Study the following code, then answer the questions below.
 
 ```js
@@ -63,6 +66,9 @@ dansRoll();
 ```
 
 a. Where is closure used in this code? How can you tell?
+
+inside curly bracet. we could tell by looking at where the console.log is.
+
 b. Compare and contrast calling `dansRoll` the first and second time. What is always the same? What could change?
 c. What is the lexical scope of `newRoll`? 
 
